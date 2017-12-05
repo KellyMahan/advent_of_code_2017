@@ -41,4 +41,3 @@ def day1_alternative(number)
     @val+=@numberarray[0].to_i
   end
 end
-
